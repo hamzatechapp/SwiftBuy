@@ -8,7 +8,6 @@ class Productmodel {
     Ratingmodel ?rating;
    Productmodel({
       required this.id,
-
    required this.price,
    required this.title,
    required this.image,
